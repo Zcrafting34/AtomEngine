@@ -1,0 +1,3 @@
+/home/zcrafting/Documentos/workspace/projects-c/AtomEngine/build/CMakeFiles/AtomEngine.dir
+/home/zcrafting/Documentos/workspace/projects-c/AtomEngine/build/CMakeFiles/edit_cache.dir
+/home/zcrafting/Documentos/workspace/projects-c/AtomEngine/build/CMakeFiles/rebuild_cache.dir
